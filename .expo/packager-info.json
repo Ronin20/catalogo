@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 3730,
+  "expoServerNgrokUrl": "https://dr-cpw.orion7.aplicativo4.exp.direct",
+  "packagerNgrokUrl": "https://packager.dr-cpw.orion7.aplicativo4.exp.direct",
+  "ngrokPid": 3793,
+  "webpackServerPort": null
+}
